@@ -63,10 +63,12 @@ For a second-order underdamped system, the transfer function is written as:
 
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/equations/standardTF.PNG?raw=true)
 
-This equation allows us to find the natural frequency and the damping ratio of the system. Using these quantities, we find the settling time for the system using the equation below:
+This equation gives us the natural frequency and the damping ratio of the system. These quantities relate to the settling time of the system by the equation below
 
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/equations/settlingtime.PNG?raw=true)
 
-We also find the % overshoot using the following equation:
+The % overshoot is calculated by the equation below:
 
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/equations/OS.PNG?raw=true)
+
+A settling time of 3.5 seconds and a % overshoot of 5% were chosen for our system. Using the equations listed above for our chosen parameters, the damping ratio was found to be .7, and the natural frequency was found to be 1.66.
