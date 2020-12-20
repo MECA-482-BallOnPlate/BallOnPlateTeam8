@@ -55,3 +55,16 @@ Now take the Laplace Transform of Equation 5 to get Equation 6.
 Rearranging the variables yields Equation 7, the Transfer Function of one of the servo motors.
 
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/equations/equation7.PNG?raw=true)
+
+# Controller Design and Specifications
+For a second-order underdamped system, the transfer function is written as:
+
+![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/equations/standardTF.PNG?raw=true)
+
+This equation allows us to find the natural frequency and the damping ratio of the system. Using these quantities, we find the settling time for the system using the equation below:
+
+![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/equations/settlingtime.PNG?raw=true)
+
+We also find the % overshoot using the following equation:
+
+![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/equations/OS.PNG?raw=true)
