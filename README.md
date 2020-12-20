@@ -12,7 +12,8 @@ The theoretical ball and plate system is shown below in figure 1. The system wou
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure1.PNG?raw=true)
 
 In the following equations, (Equation 1-7), ẍ, ⍺ and θ are all functions of time, t.  
-Variables: 				m=mass of the ball
+Variables:
+						m=mass of the ball
 
 					        h=height of servo arm
                   
