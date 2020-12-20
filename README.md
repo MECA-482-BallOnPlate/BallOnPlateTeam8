@@ -13,21 +13,22 @@ The theoretical ball and plate system is shown below in figure 1. The system wou
 
 In the following equations, (Equation 1-7), ẍ, ⍺ and θ are all functions of time, t.  
 Variables:
-						m=mass of the ball
 
-					        h=height of servo arm
+m=mass of the ball
+
+h=height of servo arm
                   
-					        rarm=radius of servo arm
+rarm=radius of servo arm
                   
-					        r=radius of the ball
+r=radius of the ball
+
+L=length of plate
                   
-					        L=length of plate
+𝛼=angle of the plate
                   
-					        𝛼=angle of the plate
+θ=angle of the servo arm
                   
-					        θ=angle of the servo arm
-                  
-					        J=moment of inertia of the ball
+J=moment of inertia of the ball
           
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/equations/equation1.PNG?raw=true)
 
