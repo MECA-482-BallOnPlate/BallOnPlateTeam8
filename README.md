@@ -85,4 +85,4 @@ Figure 5 below displays the overall control system model for our ball and plate 
 Figure 5. System Model
 
 # CoppeliaSim
-Coppelia was used to perform the simulation. The code used is shown below in Figure 6. This Code communicates with the MATLAB described in the following section. Figure 7 shows the simulation environment in Coppelia. 
+Coppelia was used to perform the simulation. The code for Coppelia used is shown below in Figures 6-9. This Code communicates with the MATLAB described in the following section. Figure 10 shows the simulation environment in Coppelia.
