@@ -1,4 +1,4 @@
-# BallOnPlateTeam8
+# Ball On Plate Team 9 
 This is a webpage documenting our MECA 482 semester project
 
 Team: Courtney Boes, Riley Meyer, Justin Price, Frank Silva
