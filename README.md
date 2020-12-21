@@ -86,3 +86,18 @@ Figure 5. System Model
 
 # CoppeliaSim
 Coppelia was used to perform the simulation. The code for Coppelia used is shown below in Figures 6-9. This Code communicates with the MATLAB described in the following section. Figure 10 shows the simulation environment in Coppelia.
+
+![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure6.PNG?raw=true)
+Figure 6.
+
+![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure7.PNG?raw=true)
+Figure 7.
+
+![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure8.PNG?raw=true)
+Figure 8.
+
+![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure9.PNG?raw=true)
+Figure 9.
+
+![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure10.PNG?raw=true)
+Figure 10. CoppeliaSim Environment
