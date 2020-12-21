@@ -82,3 +82,7 @@ Figure 4. Root Locus MATLAB Function
 Figure 5 below displays the overall control system model for our ball and plate project. The output provides an angle to MATLAB to use in the overall project code. There are two seperate block diagrams, one for each axis of freedom.
 
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure5.PNG?raw=true)
+Figure 5. System Model
+
+#CoppeliaSim
+Coppelia was used to perform the simulation. The code used is shown below in Figure 6. This Code communicates with the MATLAB described in the following section. Figure 7 shows the simulation environment in Coppelia. 
