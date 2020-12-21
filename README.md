@@ -101,3 +101,7 @@ Figure 9.
 
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure10.PNG?raw=true)
 Figure 10. CoppeliaSim Environment
+
+# MATLAB
+MATLAB code is used to link CoppeliaSim and Simulink. The overall code is shown below in Figure 11.
+
