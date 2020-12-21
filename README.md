@@ -77,3 +77,8 @@ Utilizing the root locus function in MATLAB, we realized we needed to apply sign
 
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure4.PNG?raw=true)
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/misc.%20images/RLValues.PNG?raw=true)
+Figure 4. Root Locus MATLAB Function
+# Simulink System Model
+Figure 5 below displays the overall control system model for our ball and plate project. The output provides an angle to MATLAB to use in the overall project code. There are two seperate block diagrams, one for each axis of freedom.
+
+![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure5.PNG?raw=true)
