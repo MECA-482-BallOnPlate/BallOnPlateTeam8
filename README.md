@@ -75,4 +75,5 @@ A settling time of 3.5 seconds and a % overshoot of 5% were chosen for our syste
 
 Utilizing the root locus function in MATLAB, we realized we needed to apply signal gain to our Simulink model. This value was found to be 12.1532.The process is shown below in figure 4:
 
-
+![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure4.PNG?raw=true)
+![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/misc.%20images/RLValues.PNG?raw=true)
