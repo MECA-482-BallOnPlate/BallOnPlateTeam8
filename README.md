@@ -84,5 +84,5 @@ Figure 5 below displays the overall control system model for our ball and plate 
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/figures/figure5.PNG?raw=true)
 Figure 5. System Model
 
-#CoppeliaSim
+# CoppeliaSim
 Coppelia was used to perform the simulation. The code used is shown below in Figure 6. This Code communicates with the MATLAB described in the following section. Figure 7 shows the simulation environment in Coppelia. 
