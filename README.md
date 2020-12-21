@@ -72,3 +72,5 @@ The % overshoot is calculated by the equation below:
 ![alt text](https://github.com/MECA-482-BallOnPlate/BallOnPlateTeam8/blob/main/equations/OS.PNG?raw=true)
 
 A settling time of 3.5 seconds and a % overshoot of 5% were chosen for our system. Using the equations listed above for our chosen parameters, the damping ratio was found to be .7, and the natural frequency was found to be 1.66.
+
+Utilizing the root locus function in MATLAB, we realized we needed to apply signal gain to our Simulink model. This value was found to be 12.1532.
